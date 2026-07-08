@@ -30,7 +30,7 @@ The objective of this project is to analyze Blinkit's sales performance using Po
 - Generated meaningful business insights to support data-driven decision-making.
 
 ## Dashboard
-<img width="900" alt="Blinkit Dashboard" src="YOUR_DASHBOARD_IMAGE_LINK_HERE" />
+<img width="900" alt="Blinkit Dashboard" src="https://github.com/PIKKILIMANOHAR/Blinkit-Sales-Dashboard/blob/main/blinkit_dashboard.png" />
 
 ## Project Insights
 - Total sales reached *$1.20M* across all outlets.
